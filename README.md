@@ -6,3 +6,14 @@ ZoneShare IT Student in Security. I started developing recently out of my studie
 
 <img height="54" alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/2000px-ISO_C%2B%2B_Logo.svg.png"> &nbsp;
 <img height="54" alt="C#" src="https://iconape.com/wp-content/png_logo_vector/csharp-logo.png">
+<img height="64" alt="HTML" src="https://icones.pro/wp-content/uploads/2021/05/icone-html-bleue.png">
+
+## Tools:
+
+<img height="47" alt="Proxmox" src="https://e.garluche.fr/public/images/2017/07/proxmox-logo.png"> &nbsp;
+<img height="54" alt="Ansible" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png">
+
+## Cloud computing:
+
+<img height="65" alt="Azure" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"> &nbsp;
+<img height="65" alt="OVH" src="https://avatars1.githubusercontent.com/u/1698434?s=200&v=4">
