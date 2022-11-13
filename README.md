@@ -27,13 +27,16 @@ Nostale private server at these beginnings very little developed i launched a pr
 
 I then published this site accessible to all.
 
-### Creation of ansible script
+### Creation of Ansible script
 
-Script preparation for MYSQL / MARIADB, F2B, Apache Server.
+Script preparation for MYSQL / MARIADB, F2B, Apache Server & Nginx.
 Adapted to VM on proxmox.
 
-I use ansible to do continuous update deployment.
+### Ansible - Server Update
 
-### Creation of a modded client
+Update server to latest packages.
+Installing/configuring server.
+- Only update specified packages.
+- Works with all of version for Ubuntu / Debian.
 
-I am currently working on a project to develop a modded client for a game server.
+Ansible 2.7.1
