@@ -1,6 +1,6 @@
-# ZoneShare
+# Birrooo
 
-ZoneShare IT Student in Security. I started developing recently out of my studies in Security, so in the development in C# and C++.
+Birrooo IT Student in Security. I started developing recently out of my studies in Security, so in the development in C# and C++.
 
 ## Languages:
 
